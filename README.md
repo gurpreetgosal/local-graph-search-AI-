@@ -27,19 +27,6 @@ The data file for this example would look like:
 {1,2},107.516
 {4},51.681
 {5},41.775
-4 6
-{},169.482
-{1},113.929
-{2},150.036
-{1,2},108.982
-{3},51.681
-{5},36.188
-5 6
-{},169.802
-{1},116.171
-{2},152.178
-{1,2},111.473
-{3},42.096
-{4},36.508
+
 The first line of the file is the number of vertices. The next lines of the file consist of the variable name
 and the number of parent sets, followed by each parent set and its cost on a separate line.
