@@ -10,22 +10,38 @@ Two data files are provided and the code parses the graph data given in the file
 The data file for this example would look like:
 
 5
+
 1 4
+
 {},153.466
+
 {3},96.093
+
 {4},97.913
+
 {5},99.835
+
 2 4
+
 {},141.023
+
 {3},122.446
 {4},121.576
+
 {5},123.398
+
 3 6
+
 {},169.482
+
 {1},112.109
+
 {2},150.906
+
 {1,2},107.516
+
 {4},51.681
+
 {5},41.775
 
 The first line of the file is the number of vertices. The next lines of the file consist of the variable name
